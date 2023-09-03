@@ -1,4 +1,4 @@
-# penguins-seaborn-visualization
+# Penguins dataset visualization
 Pandas and matplotlib visualization with Penguin dataset from Kaggle.
 
 ## Check the [notebook](https://github.com/tanchu-git/penguins-seaborn-visualization/blob/main/penguins_visualization.ipynb) for details.
